@@ -14,6 +14,6 @@ fun whenStatement(x: Any) {
 }
 
 fun main() {
-    sum1(10);
-    whenStatement(20);
+    sum1(10)
+    whenStatement(20)
 }
